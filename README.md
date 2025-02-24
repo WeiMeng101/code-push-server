@@ -1,4 +1,4 @@
-# Visual Studio App Center CodePush Standalone Version
+# Visual Studio App Center CodePush Standalone Version 自己用防止原仓库被删
 
 [CodePush](https://learn.microsoft.com/en-us/appcenter/distribution/codepush/) is an App Center feature that enables React Native developers to deploy mobile app updates directly to their users’ devices. It consists of two parts: CodePush Server where developers can publish app updates to (e.g. JS, HTML, CSS or image changes), and [CodePush React Native Client SDK](https://github.com/Microsoft/react-native-code-push) that enables querying for updates from within an app.
 
